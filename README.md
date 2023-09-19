@@ -1,4 +1,4 @@
-# list_character_api
+# Rick_And_Morty_character
 
 A new Flutter project.
 
